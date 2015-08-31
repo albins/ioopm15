@@ -18,12 +18,12 @@ alldeles för små och tillrättalagda för att vara tillräckligt
 lärorika. **De tar dig istället till en nivå där det blir
   vettigt att börja redovisa.**
 
-* [A1](auportal.herokuapp.com/achievements/1)
-* [F13](auportal.herokuapp.com/achievements/13)
-* [J26](auportal.herokuapp.com/achievements/26)
-* [M36](auportal.herokuapp.com/achievements/36)
-* [R52](auportal.herokuapp.com/achievements/52)
-* [T55](auportal.herokuapp.com/achievements/55)
+* [A1](http://auportal.herokuapp.com/achievements/1)
+* [F13](http://auportal.herokuapp.com/achievements/13)
+* [J26](http://auportal.herokuapp.com/achievements/26)
+* [M36](http://auportal.herokuapp.com/achievements/36)
+* [R52](http://auportal.herokuapp.com/achievements/52)
+* [T55](http://auportal.herokuapp.com/achievements/55)
 
 Se denna första redovisning som en övning i att redovisa! Under
 den första veckan **skall** du också redovisa det så kallade
